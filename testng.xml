@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+<parameter name="username" value="achuhari2928"></parameter>
+<parameter name="password" value="harshitha"></parameter>
+    <classes>
+      <class name="org.test.FirstParameter"/>
+      <class name="org.test.AdactinBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
